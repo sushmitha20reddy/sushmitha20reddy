@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Karla Sushmitha Reddy
 
-<!--
-**sushmitha20reddy/sushmitha20reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AIML)
+🏫 Geetanjali College of Engineering and Technology
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Passionate about AI, Full Stack Development and Cloud Technologies
+- Building AI-powered applications using FastAPI and Next.js
+- Interested in Generative AI, LLMs and Machine Learning
+- Open to internships and learning opportunities
+
+## Tech Stack
+
+### Languages
+Python • TypeScript • JavaScript • PHP • SQL
+
+### Frontend
+React • Next.js • Tailwind CSS
+
+### Backend
+FastAPI • Node.js
+
+### Database
+PostgreSQL • MySQL
+
+### Tools
+Git • GitHub • Vercel • Render
+
+## Featured Projects
+
+### 🚀 AI Driven Intelligent Resource Management Platform
+Full-stack AI-powered learning platform with chatbot, analytics, quizzes and career guidance.
+
+### 🍔 Food Ordering System
+Web-based food ordering application using PHP and MySQL.
+
+## Connect With Me
+
+LinkedIn: (your LinkedIn)
+Email: 23r11a6675@gcet.edu.in
