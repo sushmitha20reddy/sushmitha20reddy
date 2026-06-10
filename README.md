@@ -37,5 +37,5 @@ Web-based food ordering application using PHP and MySQL.
 
 ## Connect With Me
 
-LinkedIn: (your LinkedIn)
-Email: 23r11a6675@gcet.edu.in
+LinkedIn: www.linkedin.com/in/sushmithareddy-karla-810551377
+Email: sushmithareddykarla@gmail.com
